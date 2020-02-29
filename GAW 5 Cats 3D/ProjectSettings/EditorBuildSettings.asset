@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ManchesterScene.unity
+    guid: 3ff3659395f4bd6478c2bbb4a1cdf014
   m_configObjects: {}

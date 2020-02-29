@@ -1,16 +1,19 @@
 Description
-
+Stray Tycoon is a game about territory wars between cats.
+The current state of the game is a badi implementation of the map which allows the player to move along streets and claim areas.
 
 
 Controls 
-
+Q - toggle territory active/inactive 
+W,A,S,D - Directional controls for camera
+Mouse Wheel - Zoom camera
+Left Mouse Button - Select new location for character to travel
 
 
 Sources
 
-
 map data SDK
 https://www.mapbox.com/
 
-// Documetation - create a map
+// MapBox Documetation - create a map
 https://docs.mapbox.com/help/tutorials/create-a-map-in-unity/

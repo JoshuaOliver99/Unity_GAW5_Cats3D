@@ -158,13 +158,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   character: {fileID: 5328450739706101583}
   characterSpeed: 5
-  characterAnimator: {fileID: 0}
   directions: {fileID: 529462476}
   startPoint: {fileID: 5328450739073045117}
   endPoint: {fileID: 5328450739592698320}
   map: {fileID: 0}
   rayPlane: {fileID: 0}
-  _movementEndPoint: {fileID: 0}
+  _movementEndPoint: {fileID: 5328450739592698320}
   layerMask:
     serializedVersion: 2
     m_Bits: 256
